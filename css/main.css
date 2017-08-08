@@ -2,6 +2,8 @@
  font-weight: 700;
  padding: 21px;
  display: inline-block;	
+ text-decoration: none;
+ color: black;
 
 }
 
@@ -21,6 +23,7 @@ top: 0;
 {
 padding: 14px 70px;
 overflow: auto;
+
 }
 #home{
  background-image: url(../img/bg-home.jpg); 
@@ -73,3 +76,20 @@ footer{
 	color: white;
     padding-top: 7px;
 }
+#work {
+background-color: #fff;
+text-align: center;
+color: black;
+padding: 70px 7px;
+
+}
+.box{
+display: block;
+height: 50%;
+margin-top: 63px;
+
+
+}
+
+
+
